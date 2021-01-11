@@ -1,0 +1,1 @@
+This is a sample document that describes my life. Hence it is empty.
